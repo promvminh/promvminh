@@ -1,5 +1,1 @@
-![](http://i.imgur.com/OUkLi.gif)
-
-![](http://i.imgur.com/Ssfp7.gif)
-
-![](http://i.imgur.com/60bts.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
