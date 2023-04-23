@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Kotlin
+🌱 I’m currently learning Kotlin /n
 ⚡ Fun fact: I love to create value for people
 <!--
 **promvminh/promvminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
