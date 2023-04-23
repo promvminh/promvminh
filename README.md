@@ -1,1 +1,1 @@
-<img src="https://i.imgur.com/MqGBqZs.gif" width = 800 height = 200/>
+<img src="https://i.imgur.com/MqGBqZs.gif" width = 850 height = 400/>
