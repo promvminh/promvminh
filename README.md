@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200" height="200" />
+<img src="https://giphy.com/gifs/i-regret-nothing-cat-3ZF400H2Jh5Sg" width="600" height="200" />
